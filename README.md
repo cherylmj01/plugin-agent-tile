@@ -14,7 +14,7 @@ This plugin allows you to customize queue stats by allowing you to add other act
 A screenshot of the queue stats screen provided below :
 
 
-![Plugin screenshot](./Resources/QueueStats.png) -->
+![Plugin screenshot](https://github.com/cherylmj01/plugin-agent-tile/blob/main/src/Resources/QueueStats.png) 
 
 
 ## Requirements
