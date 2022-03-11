@@ -6,7 +6,8 @@
 
 Twilio Flex Plugins allow you to customize the appearance and behavior of [Twilio Flex](https://www.twilio.com/flex). If you want to learn more about the capabilities and how to use the API, check out our [Flex documentation](https://www.twilio.com/docs/flex).
 
-##  Twilio Flex Plugin - Plugin for customizing Queue Stats
+
+## Plugin for customizing Queue Stats
 
 This plugin allows you to customize queue stats by allowing you to add other activities for the agent and displaying the stats for these activities in all the queues.
 
