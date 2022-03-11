@@ -11,10 +11,10 @@ Twilio Flex Plugins allow you to customize the appearance and behavior of [Twili
 
 This plugin allows you to customize queue stats by allowing you to add other activities for the agent and displaying the stats for these activities in all the queues.
 
-<!-- Sample demo is provided below : -->
+A screenshot of the queue stats screen provided below :
 
-<!-- Any incoming task will be accepted as shown below :
-![Plugin Demo](./readme-resources/auto-answer.gif) -->
+
+![Plugin screenshot](./Resources/QueueStats.png) -->
 
 
 ## Requirements
